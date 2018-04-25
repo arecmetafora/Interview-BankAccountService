@@ -1,6 +1,6 @@
-# ingenico-assignment
+# Interview-BankAccountService
 
-This project is part of an assignment for a hiring process from Ingenico e-payments company.
+Interview Assignment - REST services for bank account creation and money transfers
 
 The scope of this project consists of:
 
